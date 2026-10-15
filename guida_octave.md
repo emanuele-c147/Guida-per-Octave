@@ -490,4 +490,4 @@ areacerchio = conta / nlanci
 
 ## Autori
 
-Emanuele Cananzza - [GitHub Profile](https://github.com/emanuele-c147)
+Emanuele Canazza - [GitHub Profile](https://github.com/emanuele-c147)
